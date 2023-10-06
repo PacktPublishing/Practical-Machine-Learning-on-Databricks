@@ -22,6 +22,7 @@
 # MAGIC     - Enter a name for your cluster, for example, `demo`, into the cluster name text box.
 # MAGIC     - In `Cluster Mode`, select `Single Node`.
 # MAGIC     - Choose `Databricks Runtime Version` 13.3 LTS (Scala 2.12, Spark 3.4.1) from the `ML` tab.
+# MAGIC     - On `AWS`, select `i3.xlarge` / on `Azure`, select `Standard_DS4_V2` as __Node type__.
 # MAGIC     - Click on `Create Cluster` and wait for your cluster to be provisioned.
 # MAGIC
 # MAGIC 2. **Attach this Notebook to Your Cluster**: 
