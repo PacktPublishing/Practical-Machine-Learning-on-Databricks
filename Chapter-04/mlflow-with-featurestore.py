@@ -15,7 +15,8 @@
 # MAGIC   - In `Policy` select `Unrestricted`.
 # MAGIC   - Enter any text, i.e `demo` into the cluster name text box.
 # MAGIC   - Select `Single Node` in the cluster mode.
-# MAGIC   - Select the `Databricks runtime version` value `13.3 LTS (Scala 2.12, Spark 3.4.1)` from the `ML` tab.  
+# MAGIC   - Select the `Databricks runtime version` value `13.3 LTS (Scala 2.12, Spark 3.4.1)` from the `ML` tab.
+# MAGIC   - On `AWS`, select `i3.xlarge` / on `Azure`, select `Standard_DS4_V2` as __Node type__.
 # MAGIC   - Click the `create cluster` button and wait for your cluster to be provisioned
 # MAGIC 3. **Attach** this notebook to your cluster by...   
 # MAGIC   - Click on your cluster name in menu `Detached` at the top left of this workbook to attach it to this workbook 
