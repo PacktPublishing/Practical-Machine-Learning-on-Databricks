@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/image.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Practical Machine Learning on Databricks 
 
 <a href="https://www.amazon.com/Practical-Data-Science-Databricks-end/dp/1801812039?utm_source=github&utm_medium=repository&utm_campaign=9781837631285"><img src="https://m.media-amazon.com/images/I/71RfhLDWM1L._SL1500_.jpg" alt="" height="256px" align="right"></a>
